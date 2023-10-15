@@ -1,7 +1,5 @@
 # basic-discord-bot
 
-#Overview
-
 This is a minimal Discord bot built using the discord.py library. The bot's sole purpose is to respond with a friendly "Hello!" whenever someone in the server says !hello.
 
 # Features
