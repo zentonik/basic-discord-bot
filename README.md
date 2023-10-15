@@ -16,17 +16,15 @@ Built on the discord.py library.
 
 Clone this repository.
 
-Install the required dependencies: pip install -r requirements.txt
+Create a Discord bot and obtain token.
 
-Create a Discord bot and obtain the token.
-
-Insert your bot token in the config.py file.
+Put your token in TOKEN = "YOUR_TOKEN"
 
 Run the bot: python bot.py
 
 # Commands
 
-!hello: Responds with a friendly greeting.
+!hello: Pings a member you want to greet.
 
 # Dependencies
 
@@ -35,3 +33,5 @@ discord.py: Discord API wrapper for Python.
 # Contribution
 
 Feel free to contribute by opening issues or submitting pull requests. Bug reports and feature requests are welcome!
+
+My discord is zentonik
